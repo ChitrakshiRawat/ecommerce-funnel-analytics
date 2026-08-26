@@ -109,7 +109,7 @@ All five differences were statistically significant at p < 0.001. Lander-5 is th
 ## Files
 
 - `Maven analysis.xlsx` - full analysis workbook (all PivotTables, formulas, and charts)
-- Raw CSVs - source data
+- Raw CSVs - Maven Analytics
 - `maven_fuzzy_factory_data_dictionary.csv` - column reference
 
 ---
